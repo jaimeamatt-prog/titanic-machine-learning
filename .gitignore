@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Credenciales
+kaggle.json
+.kaggle/
+
+# Datos generados
+00_Data/
+submission.csv
+
+# Modelos entrenados
+03_Models/
+*.sav
+*.keras
